@@ -1,19 +1,3 @@
-⚡ **Mostafa Khalil**  
-🎮 Gamer Mindset • 🐍 Python Learner • 💻 Future Dev  
-📧 sasakhalil1213@gmail.com  
-
-I approach coding the same way I approach gaming:  
-🎯 focus, 🧠 patience, and 🔼 constant leveling up.  
-Python is my main path — because real power starts with a solid foundation. 🐍✨  
-
-Not just a player. Not just a student.  
-A mind always searching for the next move ♟️,  
-the idea worth building 🧩,  
-and the project that boosts my XP 🚀.  
-
-💻 Coding. 🎮 Gaming. 📈 Growth.  
-This is the journey — everything else is just stages.
-
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
