@@ -1,45 +1,97 @@
-<div align="center" width="50">
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<div align="center">
+<h1>🔥 Welcome to the world of <strong>Mostafa Khalil</strong> 🔥</h1>
+</div>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]()
+<div align="center">
+💻 Student • 🐍 Python Learner • 🎮 Gamer • 🕶️ Future Elite Hacker  
+<br><br>
+📧 <strong>Email:</strong> sasakhalil1213@gmail.com  
+📱 <strong>WhatsApp:</strong> <a href="https://wa.me/201010483451">Click to chat</a>  
+🚀 <strong>Telegram:</strong> <a href="https://t.me/sasakhalil">@sasakhalil</a>
+</div>
 
-</details>
+---
 
-![Totals Hits](https://komarev.com/ghpvc/?username=Mostafa-Khalil&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mostafa-Khalil)
-[![telegram badge](https://img.shields.io/badge/MostafaKhalil-grey?style=flat&logo=telegram)](https://t.me/)
-<br>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&center=true&vCenter=true&width=600&lines=Student+who+loves+to+learn.;Python+Developer+in+progress.;Future+Hacker+and+Tech+Beast.;Leveling+up+every+single+day.">
+</div>
+
+---
+
+## 🔥 About Me  
+- 👦 I’m **Mostafa Khalil**, a student leveling up in tech  
+- 🐍 Currently learning **Python**  
+- 🕹 Gamer with a strong mindset  
+- 🔥 Dream: Become a **powerful hacker**  
+- 🚀 Always exploring new skills, tools, and challenges  
+
+---
+
+## ⚙️ Skills & Tools
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
 
-<hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Khalil&show_icons=true&theme=radical&count_private=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Khalil&layout=compact&theme=radical" height="180px"/>
+</div>
 
-```dart
-// tools_I_use organized (Customized for Mostafa)
+---
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Python", "Javascript" },
-    "WebBasics" : { "HTML", "CSS", "Json" },
-    "Systems" : { "GNU/Linux", "Windows" },
-    "Editors" : { "VSCode" },
-    "OtherTools" : { "Git", "Figma" }
-  };
-}
+## 🐍 Snake Eating My Contributions
+<div align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📈 Profile Visitors
+<div align="center">
+<img src="https://profile-counter.glitch.me/Mostafa-Khalil/count.svg" />
+</div>
+
+---
+
+## 📘 Guest Book  
+<div align="center">
+<p>Write something cool in my guest book 😎👇</p>
+<a href="https://github.com/Mostafa-Khalil/Mostafa-Khalil/issues">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif">
+</a>
+</div>
+
+---
+
+## 🔥 Code Cycle
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="12%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="12%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="12%">
+</div>
+
+---
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" width="120">
+</div>
